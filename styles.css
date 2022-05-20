@@ -1,5 +1,81 @@
 /* add your CSS here */
+h3{
+    font-size: 16pt;
+    border-width: 1px;
+    /* border-style:ridge; */
+    /* border-color: blue; */
+    /* width: 300px; */
+    padding: 1px;
+    /* box-sizing: border-box; */
+}
+
+/* body{
+    font: 12pt 
+} */
+
+.container{
+    width: 320px;
+    max-width: 320px;
+    height: 490px;
+    /* text-align: center; */
+    border-width: 1px;
+    border-style:ridge;
+    /* border-color: blue;  */
+    background-color: rgb(211, 218, 212);
+    /* width: 300px; */
+    padding: 9px;
+    box-sizing: border-box;
+}
+
 .image{
     width: 300px;
     height: 200px;
+    /* border-width: 1px; */
+    border-style:ridge;
+    /* border-color: blue; */
+    padding: 1px;
+    box-sizing: border-box;
 }
+
+.box{
+    width: 300px;
+    height: 200px;
+    /* text-align: center; */
+    font-size: 10.5px;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+    /* background-color: rgb(192, 200, 255); */
+    /* float: right */
+    border-width: 1px;
+    border-style:ridge;
+    /* border-color: blue; */
+    padding: 1px;
+    box-sizing: border-box;
+    
+}
+.inner-box{
+    /* width: auto;
+    height: auto; */
+    /* text-align: center; */
+    /* font-size: 12px; */
+    /* font-weight: bold; */
+    /* font-family: sans-serif; */
+    /* background-color: pink; */
+    list-style: none;
+    /* list-style-position: left; */
+    border-width: 1px;
+    /* border-style:ridge; */
+    /* border-color: blue; */
+    padding: 1px;
+    box-sizing: border-box;
+}
+    /* float: right */
+
+.facts{
+    font-style: italic;
+}
+
+.labels{
+    font-weight: bold;
+}
+
